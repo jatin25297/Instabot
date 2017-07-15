@@ -50,7 +50,7 @@ def other_user_profile(username):
         print "2.Recent post"
         print "3.Like recent post"
         print "4.List of comments on recent post"
-        print "5.Make comment on recent a post"
+        print "5.Make comment on recent post"
         print "6.Analyze and delete bad comments"
         print "0.Go to self profile"
         choice=raw_input("")
